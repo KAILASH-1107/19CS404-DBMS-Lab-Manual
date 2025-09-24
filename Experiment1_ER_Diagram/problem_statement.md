@@ -64,8 +64,9 @@ The Central Library wants to manage book lending and cultural events.
 - Overdue fines apply for late returns.
 
 ### ER Diagram:
-*Paste or attach your diagram here*  
-![ER Diagram](er_diagram_library.png)
+<img width="1065" height="936" alt="image" src="https://github.com/user-attachments/assets/3769ed04-1a77-4621-83ff-578313df6214" />
+
+
 
 ### Entities and Attributes
 
